@@ -17,9 +17,9 @@ if (n <1) {
     slideIndex = slides.length;
 }
 for (i=0; i < slides.length; i++) {
-    slides[i].computedStyleMap.display = "none";
+    slides[i].style.display = "none";
 }
 
-slides[slideIndex - 1].computedStyleMap.display = "block";
+slides[slideIndex - 1].style.display = "block";
 
 }
