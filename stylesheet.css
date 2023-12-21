@@ -43,5 +43,10 @@ body {
 }
 
 h1 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Lora', sans-serif;
+}
+
+p{
+
+   font-family: 'Verdana', sans-serif; 
 }
