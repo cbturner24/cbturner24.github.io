@@ -5,12 +5,12 @@ body {
 
 .slideshow-container{
     max-width: 800px;
-    position: relative;
+    position: fixed;
     margin: auto;
 }
 
 .prev, .next {
-    position:absolute;
+    position:fixed;
     top: 50%;
     width:auto;
     padding: 16px;
