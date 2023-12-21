@@ -3,10 +3,21 @@ body {
     font-size: 14px;
 }
 
-.slideshow-container{
-    max-width: 800px;
-    position: fixed;
-    margin: auto;
+
+.centered-content {
+    text-align: center;
+}
+
+.slideshow-container {
+    position: relative;
+    margin: auto; /* Center horizontally */
+    display: flex;
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center vertically */
+}
+
+.mySlides {
+    width: 100%; /* Ensure the slides take up the full width of the container */
 }
 
 .prev, .next {
