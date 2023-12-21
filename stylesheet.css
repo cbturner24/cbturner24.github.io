@@ -1,5 +1,5 @@
 body {
-    background: rgb(55, 75, 22);
+    background:#dabcb7;
     font-size: 14px;
 }
 
@@ -24,7 +24,7 @@ body {
     font-size: 14px;
     padding: 16px;
     margin-top: -22px;
-    color: #dabcb7;
+    color: darkolivegreen;
     background-color: black;
     border: solid;
     cursor: pointer;
@@ -39,7 +39,7 @@ body {
 }
 
 .prev:hover, .next:hover {
-    background-color:#dabcb7;
+    background-color:#darkolivegreen;
 }
 
 h1 {
