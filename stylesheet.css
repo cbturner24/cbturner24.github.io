@@ -40,13 +40,17 @@ body {
 
 .prev:hover, .next:hover {
     background-color:darkolivegreen;
+    color: white;
 }
 
 h1 {
     font-family: 'Inconsolat', sans-serif;
+    font-size: 14px;
 }
 
 p{
 
    font-family: 'georgia', sans-serif; 
+   font-size: 12px;
+}
 }
