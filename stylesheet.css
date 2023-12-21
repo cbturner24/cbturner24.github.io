@@ -1,5 +1,5 @@
 body {
-    background: #dabcb7;
+    background: darkolivegreen;
     font-size: 14px;
 }
 
@@ -39,7 +39,7 @@ body {
 }
 
 .prev:hover, .next:hover {
-    background-color:darkolivegreen;
+    background-color:#dabcb7;
 }
 
 h1 {
