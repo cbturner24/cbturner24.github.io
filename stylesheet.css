@@ -1,0 +1,32 @@
+body {
+    background: #dabcb7;
+    font-size: 14px;
+}
+
+.slideshow-container{
+    max-width: 800px;
+    position: relative;
+    margin: auto;
+}
+
+.mySlides {
+    display: none;
+
+}
+
+.prev, .next {
+    position:absolute;
+    top: 50%;
+    width:auto;
+    padding: 16px;
+    margin-top: -22px;
+    font-size: 14px;
+    color: #dabcb7;
+    background-color: black;
+    border: solid;
+    cursor: pointer;
+}
+
+.prev:hover, .next:hover {
+    background-color:darkolivegreen;
+}
