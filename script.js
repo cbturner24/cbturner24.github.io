@@ -14,7 +14,7 @@ if (n> slides.length) {
     slideIndex = 1;
 }
 if (n <1) {
-    slideIndex = slide.length;
+    slideIndex = slides.length;
 }
 for (i=0; i < slides.length; i++) {
     slides[i].computedStyleMap.display = "none";
