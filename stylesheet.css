@@ -31,11 +31,11 @@ body {
 }
 
 .prev {
-    left: 20;
+    left: 0;
 }
 
 .next {
-    right: 20;
+    right: 0;
 }
 
 .prev:hover, .next:hover {
