@@ -18,7 +18,7 @@ body {
 
 .prev, .next {
    
-    position:fixed;
+    position:absolute;
     top: 50%;
     width:auto;
     font-size: 14px;
