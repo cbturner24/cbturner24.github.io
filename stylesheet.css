@@ -41,3 +41,7 @@ body {
 .prev:hover, .next:hover {
     background-color:darkolivegreen;
 }
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
