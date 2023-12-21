@@ -17,10 +17,12 @@ body {
 }
 
 .mySlides {
+    align-items: center;
     width: 100%; /* Ensure the slides take up the full width of the container */
 }
 
 .prev, .next {
+    align-items: right;
     position:relative;
     top: 50%;
     width:auto;
