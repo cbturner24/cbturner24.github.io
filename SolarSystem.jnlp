@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="" 
+    href="SolarSystem.jnlp">
+    <information>
+        <title>Solar System</title>
+        <vendor>Chloe Turner </vendor>
+    </information>
+    <resources>
+        <!-- Application Resources -->
+        <j2se version="1.7+"
+              href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="SolarSystem.jar"
+            main="true" />
+
+    </resources>
+    <application-desc
+         name="Solar System"
+         main-class=
+           "webstartComponentArch.SolarSystemApplication"
+         width="1280"
+         height="960">
+     </application-desc>
+     <update check="background"/>
+</jnlp>   
