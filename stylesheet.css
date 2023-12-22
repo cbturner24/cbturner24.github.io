@@ -53,3 +53,7 @@ p{
    font-family: 'georgia', sans-serif; 
    font-size: 12px;
 }
+
+href:hover {
+    color: rgb(189, 93, 186);
+}
