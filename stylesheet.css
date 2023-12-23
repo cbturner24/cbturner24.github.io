@@ -24,8 +24,8 @@ body {
     font-size: 14px;
     padding: 16px;
     margin-top: -22px;
-    color: darkolivegreen;
-    background-color: black;
+    color: black;
+    background-color: darkolivegreen;
     border: solid;
     cursor: pointer;
 }
@@ -45,13 +45,13 @@ body {
 
 h1 {
     font-family: 'Inconsolat', sans-serif;
-    
+    font-size: 16px;
 }
 
 p{
 
    font-family: 'georgia', sans-serif; 
-   font-size: 12px;
+   font-size: 14px;
 }
 
 href {
