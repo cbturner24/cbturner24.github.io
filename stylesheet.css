@@ -13,7 +13,7 @@ body {
 }
 
 .mySlides {
-    border: solid;
+    
     width: 100%; /* Ensure the slides take up the full width of the container */
 }
 
@@ -57,4 +57,7 @@ p{
 
 href {
     color: rgb(189, 93, 186);
+}
+div{
+    border: solid;
 }
