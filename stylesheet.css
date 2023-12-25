@@ -8,6 +8,7 @@ body {
     position: relative;
     margin: auto; /* Center horizontally */
     display: flex;
+    border: solid;
 
 }
 
