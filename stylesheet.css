@@ -8,12 +8,12 @@ body {
     position: relative;
     margin: auto; /* Center horizontally */
     display: flex;
-    border: solid;
+ 
 
 }
 
 .mySlides {
-   
+    border: solid;
     width: 100%; /* Ensure the slides take up the full width of the container */
 }
 
