@@ -61,3 +61,24 @@ href {
 video{
     border: solid;
 }
+#aboutPopup {
+
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(241, 231, 231);
+    padding: 20px;
+    border: 1px solid rgb(9, 1, 1);
+}
+
+#popupContent{
+
+    text-align: center;
+}
+
+#closeAbout{
+    margin-top: 10px;
+    cursor: pointer;
+}

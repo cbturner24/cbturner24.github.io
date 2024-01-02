@@ -1,3 +1,4 @@
+// add slide of projects 
 let slideIndex = 1;
 showSlides(slideIndex);
 
@@ -23,3 +24,13 @@ for (i=0; i < slides.length; i++) {
 slides[slideIndex - 1].style.display = "block";
 
 }
+//adding pop up about me
+document.getElementById("openAbout").addEventListener("click", function(){
+    document.getElementById("aboutPopup").style.display = "block";
+});
+
+document,getElementById("closeAbout").addEventListener
+("click", function(){
+
+document.getElementById("aboutPopup").style.display = "none";
+});
