@@ -29,7 +29,7 @@ document.getElementById("openAbout").addEventListener("click", function(){
     document.getElementById("aboutPopup").style.display = "block";
 });
 
-document,getElementById("closeAbout").addEventListener
+document.getElementById("closeAbout").addEventListener
 ("click", function(){
 
 document.getElementById("aboutPopup").style.display = "none";
