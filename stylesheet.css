@@ -74,9 +74,13 @@ video{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: rgb(234, 190, 175);
+    background-color: #c99d95;
     padding: 20px;
-    border: .2px solid rgb(255, 255, 255);
+    border: none;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1),
+    0 2px 4px rgba(0,0,0,0.1),
+     inset 0 0 50px linear-gradient(to right, #c99d95,
+    #dabcb7);
     z-index: 9999;
 }
 
