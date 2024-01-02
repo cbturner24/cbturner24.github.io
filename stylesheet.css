@@ -8,7 +8,8 @@ body {
     position: relative;
     margin: auto; /* Center horizontally */
     display: flex;
- 
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -101,7 +102,4 @@ video{
     cursor: pointer;
     background-color: transparent;
     border: solid;
-}
-#Content{
-    position:fixed;
 }
