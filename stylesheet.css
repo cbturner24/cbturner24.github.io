@@ -55,16 +55,14 @@ p{
    font-size: 14px;
 }
 
-href {
-    color: rgb(189, 93, 186);
-}
+
 video{
     border: solid;
 }
 
 #openAbout{
     border: none;
-    color: black;
+    color: darkolivegreen;
     background-color: transparent;
    
 }
