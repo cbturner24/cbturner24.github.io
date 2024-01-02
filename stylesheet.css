@@ -8,8 +8,6 @@ body {
     position: relative;
     margin: auto; /* Center horizontally */
     display: flex;
-    align-items: center;
-    justify-content: center;
 
 }
 
@@ -101,4 +99,8 @@ video{
     color: darkolivegreen;
     background-color: transparent;
     font-family: 'Lora', sans-serif; 
+}
+#Content{
+    align-items: center;
+    justify-content: center;
 }
