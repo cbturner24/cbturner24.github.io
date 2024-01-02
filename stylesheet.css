@@ -61,7 +61,7 @@ video{
 }
 
 #openAbout{
-    border: none;
+    border: solid;
     color: darkolivegreen;
     background-color: transparent;
     font-family: 'Lora', sans-serif; 
@@ -90,4 +90,6 @@ video{
 #closeAbout{
     margin-top: 10px;
     cursor: pointer;
+    background-color: transparent;
+    border: solid;
 }
