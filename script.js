@@ -41,7 +41,7 @@ document.getElementById("aboutPopup").style.display = "none";
 
 // add buttons for other sites 
 document.getElementById("Linkedin").addEventListener("click", function(){
-    window.open('www.linkedin.com/in/chloebturner', '_blank');
+    window.open('https://linkedin.com/in/chloebturner', '_blank');
 });
 document.getElementById("Github").addEventListener("click", function(){
     window.open('https://github.com/cbturner24/', '_blank');
