@@ -70,13 +70,6 @@ video{
     border: solid;
 }
 
-#openAbout{
-    border: solid;
-    color: darkolivegreen;
-    background-color: transparent;
-    font-family: 'Lora', sans-serif; 
-}
-
 #aboutPopup {
 
     display: none;
@@ -102,4 +95,10 @@ video{
     cursor: pointer;
     background-color: transparent;
     border: solid;
+}
+.button {
+    border: solid;
+    color: darkolivegreen;
+    background-color: transparent;
+    font-family: 'Lora', sans-serif; 
 }
