@@ -102,3 +102,6 @@ video{
     background-color: transparent;
     border: solid;
 }
+#content{
+    position:fixed;
+}
