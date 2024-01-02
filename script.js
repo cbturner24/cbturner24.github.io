@@ -41,15 +41,15 @@ document.getElementById("aboutPopup").style.display = "none";
 
 //adding table of contents link event
 
-document.getElementById("Project1").addEventListener("click", function () {
+document.getElementById("LinkProject1").addEventListener("click", function () {
     currentSlide(3); // Adjust the slide index accordingly
 });
-document.getElementById("Project2").addEventListener("click", function () {
+document.getElementById("LinkProject2").addEventListener("click", function () {
     currentSlide(4); // Adjust the slide index accordingly
 });
-document.getElementById("Project3").addEventListener("click", function () {
+document.getElementById("LinkProject3").addEventListener("click", function () {
     currentSlide(5); // Adjust the slide index accordingly
 });
-document.getElementById("Project4").addEventListener("click", function () {
+document.getElementById("LinkProject4").addEventListener("click", function () {
     currentSlide(6); // Adjust the slide index accordingly
 });
